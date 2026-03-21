@@ -7,12 +7,15 @@
 
 # 💻 Tech Stack:
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,html,css,java,python,r,react,mysql,mongodb,tensorflow,git" height="70"/>
-<img src="https://skillicons.dev/icons?i=numpy" height="70"/>
-<img src="https://skillicons.dev/icons?i=pandas" height="70"/>
-<img src="https://skillicons.dev/icons?i=matplotlib" height="70"/>
-<img src="https://skillicons.dev/icons?i=plotly" height="70"/>
-<img src="https://skillicons.dev/icons?i=sklearn" height="70"/>
+<img src="https://skillicons.dev/icons?i=cpp,html,css,java,python,react,mysql,mongodb,tensorflow,git" height="70"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="70"/>
+
 </p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Raj-Kumar-Sharma&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
