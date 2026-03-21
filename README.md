@@ -9,7 +9,7 @@
 
 # 👋 Hi, I'm Rajkumar Sharma
 
-### AI & Data Science Student | Aspiring Data Engineer
+### AI & Data Science Student | Aspiring Data Scientist
 
 
 # 💫 About Me:
