@@ -7,7 +7,7 @@
 🔗 <a href="https://www.credly.com/">Visit My Credly</a>
 </p>
 
-# 👋 Hi, I'm Pranjal Upadhyay
+# 👋 Hi, I'm Rajkumar Sharma
 
 ### AI & Data Science Student | Aspiring Data Engineer
 
