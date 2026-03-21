@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.linkedin.com/in/raj-kumar-189051291/overlay/background-photo" width="100%" alt="Banner"/>
+  <img src="banner.png" width="100%" alt="Banner"/>
 </p>
 
 <!-- Links below banner -->
