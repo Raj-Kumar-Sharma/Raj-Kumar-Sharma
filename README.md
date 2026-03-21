@@ -2,6 +2,16 @@
   <img src="port.jpeg" alt="Banner" width="100%"/>
 </p>
 
+<p align="center">
+🔗 <a href="https://your-portfolio-link.com">Visit My Portfolio Website</a><br>
+🔗 <a href="https://www.credly.com/">Visit My Credly</a>
+</p>
+
+# 👋 Hi, I'm Pranjal Upadhyay
+
+### AI & Data Science Student | Aspiring Data Engineer
+
+
 # 💫 About Me:
 🎓 Currently pursuing my studies at Poornima University  
 💡 Passionate about Artificial Intelligence, Data Science, and Machine Learning  
@@ -25,7 +35,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/" target="_blank">
+<a href="https://www.kaggle.com/your-username" target="_blank">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
