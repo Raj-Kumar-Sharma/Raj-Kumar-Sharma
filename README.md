@@ -24,10 +24,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="55"/>
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Raj-Kumar-Sharma&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Raj-Kumar-Sharma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Kumar-Sharma&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Raj-Kumar-Sharma&show_icons=true&theme=tokyonight" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=Raj-Kumar-Sharma&theme=tokyonight" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Kumar-Sharma&layout=compact&theme=tokyonight" height="165"/>
+
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Raj-Kumar-Sharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
