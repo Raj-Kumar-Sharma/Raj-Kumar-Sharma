@@ -1,11 +1,16 @@
+<!-- Banner -->
 <p align="center">
-  <img src="port.jpeg" alt="Banner" width="100%"/>
+  <img src="banner.png" width="100%" alt="Banner"/>
 </p>
 
+<!-- Links below banner -->
 <p align="center">
-🔗 <a href="https://your-portfolio-link.com">Visit My Portfolio Website</a><br>
-🔗 <a href="https://www.credly.com/">Visit My Credly</a>
+
+🔗 <a href="https://your-portfolio-link.com"><b>Visit My Portfolio Website</b></a>  
+🔗 <a href="https://www.credly.com/users/your-profile"><b>Visit My Credly</b></a>
+
 </p>
+
 
 # 👋 Hi, I'm Rajkumar Sharma
 
