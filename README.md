@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" width="100%" alt="Banner"/>
+  <img src="Grey and Black Simple Marketing LinkedIn Banner (1).png" width="100%" alt="Banner"/>
 </p>
 
 <!-- Links below banner -->
