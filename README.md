@@ -82,6 +82,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="55"/>
 
+<img src="https://img.icons8.com/color/48/power-bi.png" height="55"/>
+
 </p>
 
 
