@@ -7,7 +7,7 @@
 <p align="center">
 
 🔗 <a href="https://your-portfolio-link.com"><b>Visit My Portfolio Website</b></a>  
-🔗 <a href="https://www.credly.com/users/your-profile"><b>Visit My Credly</b></a>
+🔗 <a href="https://www.credly.com/users/raj-kumar.cfe775b4/edit#credly"><b>Visit My Credly</b></a>
 
 </p>
 
