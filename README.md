@@ -6,7 +6,7 @@
 <!-- Links below banner -->
 <p align="center">
 
-🔗 <a href="https://your-portfolio-link.com"><b>Visit My Portfolio Website</b></a>  
+
 🔗 <a href="https://www.credly.com/users/raj-kumar.cfe775b4/edit#credly"><b>Visit My Credly</b></a>
 
 </p>
@@ -14,14 +14,14 @@
 
 # 👋 Hi, I'm Rajkumar Sharma
 
-### AI & Data Science Student | Aspiring Data Scientist
+### AI & Data Science Student | Aspiring Data Engineer
 
 
 # 💫 About Me:
 🎓 Currently pursuing my studies at Poornima University  
 💡 Passionate about Artificial Intelligence, Data Science, and Machine Learning  
 🧠 Skilled in Python, SQL, and C++  
-🚀 Aspiring to become a Data Scientist  
+🚀 Aspiring to become a Data Engineer 
 🎮 Outside of coding, I enjoy playing cricket  
 
 
@@ -77,8 +77,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="55"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="55"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="55"/>
 
